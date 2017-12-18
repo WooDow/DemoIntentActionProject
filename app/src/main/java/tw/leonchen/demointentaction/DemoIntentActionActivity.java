@@ -25,6 +25,7 @@ import android.os.Bundle;
         用這個，要在 AndroidManifest.xml 中，加上
         <uses-permission id="android.permission.CALL_PHONE" />
  * ......還有一大堆
+ * intent git test
  */
 
 public class DemoIntentActionActivity extends AppCompatActivity {
